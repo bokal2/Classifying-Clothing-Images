@@ -7,7 +7,7 @@ Dependencies to be intalled: tensorflow, tensorflow dataset, NumPY, Matplotlib
 
 Dataset: Fashion MNIST dataset. Link: https://github.com/zalandoresearch/fashion-mnist
 
-Key Concepts
+# Key Concepts
 
 Flattening: The process of converting 2d images into 1d vector
 
